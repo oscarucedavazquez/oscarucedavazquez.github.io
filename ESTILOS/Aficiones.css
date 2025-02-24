@@ -14,3 +14,12 @@ a {
     display: inline-block;
     margin: 10px;
 }
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+fieldset{
+    background-color: #FFFFFF;
+}
+body{
+    background-color: #444444;
+}

@@ -17,3 +17,6 @@ a {
     display: inline-block;
     margin: 10px;
 }
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

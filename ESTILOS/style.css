@@ -93,14 +93,14 @@ aside > div {
 	background: #AEC6CF;
 	min-height: 100px;
 }
-#logo {
+#cabecera {
     display: inline-block;
     vertical-align: middle;
     font-size: 30px;
     margin-right: 75px;
     color: #FFF;
 }
-#logo img {
+#cabecera img {
     width: 50px;
     vertical-align: middle;
     margin-right: 10px;
